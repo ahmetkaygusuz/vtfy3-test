@@ -48,7 +48,7 @@
               start
             />
 
-            Get Started2
+            Get Started3
           </v-btn>
         </v-col>
 
